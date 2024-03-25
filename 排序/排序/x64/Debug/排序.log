@@ -1,0 +1,4 @@
+﻿  Sort.c
+D:\数据结构课程\排序\Sort.c(67,18): warning C4047: “函数”:“int *”与“int”的间接级别不同
+D:\数据结构课程\排序\Sort.c(67,18): warning C4024: “Swap”: 形参和实参 2 的类型不同
+  排序.vcxproj -> D:\数据结构课程\排序\x64\Debug\排序.exe
