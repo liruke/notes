@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u6570\u636E\u7ED3\u6784\u8BFE\u7A0B\\\u6570\u636E\u7ED3\u6784---\u4E8C\u53C9\u6811\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51F18B99-BF99-422B-B2CB-E74C7C2B78F6}|\u6570\u636E\u7ED3\u6784---\u4E8C\u53C9\u6811.vcxproj|D:\\\u6570\u636E\u7ED3\u6784\u8BFE\u7A0B\\\u6570\u636E\u7ED3\u6784---\u4E8C\u53C9\u6811\\tree.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51F18B99-BF99-422B-B2CB-E74C7C2B78F6}|\u6570\u636E\u7ED3\u6784---\u4E8C\u53C9\u6811.vcxproj|solutionrelative:tree.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F18B99-BF99-422B-B2CB-E74C7C2B78F6}|\u6570\u636E\u7ED3\u6784---\u4E8C\u53C9\u6811.vcxproj|D:\\\u6570\u636E\u7ED3\u6784\u8BFE\u7A0B\\\u6570\u636E\u7ED3\u6784---\u4E8C\u53C9\u6811\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51F18B99-BF99-422B-B2CB-E74C7C2B78F6}|\u6570\u636E\u7ED3\u6784---\u4E8C\u53C9\u6811.vcxproj|solutionrelative:test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F18B99-BF99-422B-B2CB-E74C7C2B78F6}|\u6570\u636E\u7ED3\u6784---\u4E8C\u53C9\u6811.vcxproj|D:\\\u6570\u636E\u7ED3\u6784\u8BFE\u7A0B\\\u6570\u636E\u7ED3\u6784---\u4E8C\u53C9\u6811\\tree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51F18B99-BF99-422B-B2CB-E74C7C2B78F6}|\u6570\u636E\u7ED3\u6784---\u4E8C\u53C9\u6811.vcxproj|solutionrelative:tree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F18B99-BF99-422B-B2CB-E74C7C2B78F6}|\u6570\u636E\u7ED3\u6784---\u4E8C\u53C9\u6811.vcxproj|D:\\\u6570\u636E\u7ED3\u6784\u8BFE\u7A0B\\\u6570\u636E\u7ED3\u6784---\u4E8C\u53C9\u6811\\Queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51F18B99-BF99-422B-B2CB-E74C7C2B78F6}|\u6570\u636E\u7ED3\u6784---\u4E8C\u53C9\u6811.vcxproj|solutionrelative:Queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51F18B99-BF99-422B-B2CB-E74C7C2B78F6}|\u6570\u636E\u7ED3\u6784---\u4E8C\u53C9\u6811.vcxproj|D:\\\u6570\u636E\u7ED3\u6784\u8BFE\u7A0B\\\u6570\u636E\u7ED3\u6784---\u4E8C\u53C9\u6811\\Queue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51F18B99-BF99-422B-B2CB-E74C7C2B78F6}|\u6570\u636E\u7ED3\u6784---\u4E8C\u53C9\u6811.vcxproj|solutionrelative:Queue.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 607,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tree.c",
+              "DocumentMoniker": "D:\\\u6570\u636E\u7ED3\u6784\u8BFE\u7A0B\\\u6570\u636E\u7ED3\u6784---\u4E8C\u53C9\u6811\\tree.c",
+              "RelativeDocumentMoniker": "tree.c",
+              "ToolTip": "D:\\\u6570\u636E\u7ED3\u6784\u8BFE\u7A0B\\\u6570\u636E\u7ED3\u6784---\u4E8C\u53C9\u6811\\tree.c",
+              "RelativeToolTip": "tree.c",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAAAGgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-01-17T03:44:50.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Queue.c",
+              "DocumentMoniker": "D:\\\u6570\u636E\u7ED3\u6784\u8BFE\u7A0B\\\u6570\u636E\u7ED3\u6784---\u4E8C\u53C9\u6811\\Queue.c",
+              "RelativeDocumentMoniker": "Queue.c",
+              "ToolTip": "D:\\\u6570\u636E\u7ED3\u6784\u8BFE\u7A0B\\\u6570\u636E\u7ED3\u6784---\u4E8C\u53C9\u6811\\Queue.c",
+              "RelativeToolTip": "Queue.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-01-19T02:52:35.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Queue.h",
+              "DocumentMoniker": "D:\\\u6570\u636E\u7ED3\u6784\u8BFE\u7A0B\\\u6570\u636E\u7ED3\u6784---\u4E8C\u53C9\u6811\\Queue.h",
+              "RelativeDocumentMoniker": "Queue.h",
+              "ToolTip": "D:\\\u6570\u636E\u7ED3\u6784\u8BFE\u7A0B\\\u6570\u636E\u7ED3\u6784---\u4E8C\u53C9\u6811\\Queue.h",
+              "RelativeToolTip": "Queue.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-01-19T02:52:22.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tree.h",
+              "DocumentMoniker": "D:\\\u6570\u636E\u7ED3\u6784\u8BFE\u7A0B\\\u6570\u636E\u7ED3\u6784---\u4E8C\u53C9\u6811\\tree.h",
+              "RelativeDocumentMoniker": "tree.h",
+              "ToolTip": "D:\\\u6570\u636E\u7ED3\u6784\u8BFE\u7A0B\\\u6570\u636E\u7ED3\u6784---\u4E8C\u53C9\u6811\\tree.h",
+              "RelativeToolTip": "tree.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-01-17T03:45:02.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test.c",
+              "DocumentMoniker": "D:\\\u6570\u636E\u7ED3\u6784\u8BFE\u7A0B\\\u6570\u636E\u7ED3\u6784---\u4E8C\u53C9\u6811\\test.c",
+              "RelativeDocumentMoniker": "test.c",
+              "ToolTip": "D:\\\u6570\u636E\u7ED3\u6784\u8BFE\u7A0B\\\u6570\u636E\u7ED3\u6784---\u4E8C\u53C9\u6811\\test.c",
+              "RelativeToolTip": "test.c",
+              "ViewState": "AQIAABwAAAAAAAAAAAAIwC8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-01-17T03:44:41.87Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

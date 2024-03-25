@@ -1,0 +1,5 @@
+﻿  SList.c
+D:\数据结构课程\顺序表实践---独立完成通讯录\SList.c(99,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“SLDataType”
+  test.c
+D:\数据结构课程\顺序表实践---独立完成通讯录\test.c(21,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...
