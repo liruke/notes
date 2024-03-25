@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "十一月九日课程", "十一月九日课程.vcxproj", "{191A1ECE-CED6-4D07-AB60-39F21ABA7B39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{191A1ECE-CED6-4D07-AB60-39F21ABA7B39}.Debug|x64.ActiveCfg = Debug|x64
+		{191A1ECE-CED6-4D07-AB60-39F21ABA7B39}.Debug|x64.Build.0 = Debug|x64
+		{191A1ECE-CED6-4D07-AB60-39F21ABA7B39}.Debug|x86.ActiveCfg = Debug|Win32
+		{191A1ECE-CED6-4D07-AB60-39F21ABA7B39}.Debug|x86.Build.0 = Debug|Win32
+		{191A1ECE-CED6-4D07-AB60-39F21ABA7B39}.Release|x64.ActiveCfg = Release|x64
+		{191A1ECE-CED6-4D07-AB60-39F21ABA7B39}.Release|x64.Build.0 = Release|x64
+		{191A1ECE-CED6-4D07-AB60-39F21ABA7B39}.Release|x86.ActiveCfg = Release|Win32
+		{191A1ECE-CED6-4D07-AB60-39F21ABA7B39}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FC0BD4C-1276-4A33-9004-FF92DB9EEE63}
+	EndGlobalSection
+EndGlobal

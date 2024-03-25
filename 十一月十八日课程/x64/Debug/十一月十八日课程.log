@@ -1,0 +1,10 @@
+﻿  test.c
+D:\C语言仓库\十一月十八日课程\test.c(165,25): warning C4047: “函数”:“const char *”与“char”的间接级别不同
+D:\C语言仓库\十一月十八日课程\test.c(165,25): warning C4024: “strlen”: 形参和实参 1 的类型不同
+D:\C语言仓库\十一月十八日课程\test.c(168,28): warning C4047: “函数”:“const char *”与“char”的间接级别不同
+D:\C语言仓库\十一月十八日课程\test.c(168,28): warning C4024: “strlen”: 形参和实参 1 的类型不同
+D:\C语言仓库\十一月十八日课程\test.c(170,25): warning C4047: “函数”:“const char *”与“char (*)[6]”的间接级别不同
+D:\C语言仓库\十一月十八日课程\test.c(170,25): warning C4024: “strlen”: 形参和实参 1 的类型不同
+D:\C语言仓库\十一月十八日课程\test.c(172,30): warning C4047: “函数”:“const char *”与“char (*)[6]”的间接级别不同
+D:\C语言仓库\十一月十八日课程\test.c(172,30): warning C4024: “strlen”: 形参和实参 1 的类型不同
+  十一月十八日课程.vcxproj -> D:\C语言仓库\十一月十八日课程\x64\Debug\十一月十八日课程.exe

@@ -1,0 +1,6 @@
+﻿  game.c
+D:\C语言仓库\扫雷2\game.c(64,2): error C2143: 语法错误: 缺少“)”(在“{”的前面)
+D:\C语言仓库\扫雷2\game.c(65,10): warning C4566: 由通用字符名称“\u2F0A”表示的字符不能在当前代码页(936)中表示出来
+D:\C语言仓库\扫雷2\game.c(86,11): warning C4566: 由通用字符名称“\u2FAE”表示的字符不能在当前代码页(936)中表示出来
+D:\C语言仓库\扫雷2\game.c(86,11): warning C4566: 由通用字符名称“\u2F0A”表示的字符不能在当前代码页(936)中表示出来
+D:\C语言仓库\扫雷2\game.c(66,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

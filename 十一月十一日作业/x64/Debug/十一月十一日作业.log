@@ -1,0 +1,4 @@
+﻿  test.c
+D:\C语言仓库\十一月十一日作业\test.c(94,13): warning C4047: “=”:“char”与“char [2]”的间接级别不同
+D:\C语言仓库\十一月十一日作业\test.c(95,14): warning C4047: “=”:“char”与“char [2]”的间接级别不同
+  十一月十一日作业.vcxproj -> D:\C语言仓库\十一月十一日作业\x64\Debug\十一月十一日作业.exe

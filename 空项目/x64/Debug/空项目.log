@@ -1,0 +1,4 @@
+﻿  asd.c
+D:\C语言仓库\空项目\asd.c(13,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\C语言仓库\空项目\asd.c(25,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  空项目.vcxproj -> D:\C语言仓库\空项目\x64\Debug\空项目.exe

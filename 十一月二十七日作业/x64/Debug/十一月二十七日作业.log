@@ -1,0 +1,3 @@
+﻿  test.c
+D:\C语言仓库\十一月二十七日作业\test.c(99): warning C4716: “my_memmove”: 必须返回一个值
+  十一月二十七日作业.vcxproj -> D:\C语言仓库\十一月二十七日作业\x64\Debug\十一月二十七日作业.exe

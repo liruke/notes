@@ -1,0 +1,5 @@
+﻿  test.c
+D:\C语言仓库\debug和release的作业\test.c(43,13): warning C4047: “=”:“char”与“char [2]”的间接级别不同
+D:\C语言仓库\debug和release的作业\test.c(44,14): warning C4047: “=”:“char”与“char [2]”的间接级别不同
+D:\C语言仓库\debug和release的作业\test.c(38,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  debug和release的作业.vcxproj -> D:\C语言仓库\debug和release的作业\x64\Debug\debug和release的作业.exe
